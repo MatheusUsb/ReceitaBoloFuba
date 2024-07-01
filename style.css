@@ -36,3 +36,35 @@ li:hover {
     color: #ff6347; 
     text-decoration: underline; 
 }
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    ul, ol {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    ul, ol {
+        font-size: 12px;
+    }
+}
