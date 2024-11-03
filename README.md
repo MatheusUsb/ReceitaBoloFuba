@@ -1,3 +1,3 @@
 # Receita de Bolo de Fubá
 
-Este é um guia simples para fazer um bolo de fubá.
+Este é um código em HTML e CSS no qual poderia ser utilizado para uma página de receitas na web.
